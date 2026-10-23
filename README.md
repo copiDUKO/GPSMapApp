@@ -10,7 +10,7 @@ Esta aplicación Android muestra un mapa interactivo utilizando Google Maps, per
 
 ## Instrucciones de Ejecución
 
-1. Clona el repositorio: `git clone https://github.com/TU_USUARIO/SimpleGPSMapApp.git`
+1. Clona el repositorio: `git clone https://github.com/copiDUKO/GPSMapApp.git`
 2. Abre el proyecto en **Android Studio**.
 3. Añade tu API Key de Google Maps en tu archivo de recursos o directamente en el `AndroidManifest.xml` dentro del elemento `<application>`.
 4. Sincroniza las dependencias con Gradle (**Sync Now**).
